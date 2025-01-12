@@ -1,0 +1,4 @@
+config/sonarr/
+config/radarr/
+.DS_Store
+._.DS_Store

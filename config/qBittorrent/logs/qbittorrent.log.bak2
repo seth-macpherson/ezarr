@@ -1,0 +1,467 @@
+(N) 2024-12-30T14:24:12 - Restored torrent. Torrent: "80cdc5fcbced42a7b8c5e8bab58963f8261bfa88"
+(N) 2024-12-30T14:24:12 - Restored torrent. Torrent: "Outlander.S03.1080p.AMZN.WEBRip.DDP5.1.x265-SiGMA"
+(N) 2024-12-30T14:24:12 - Restored torrent. Torrent: "fc268cca2d96e2aed94d313a72b1c5357751ea72"
+(N) 2024-12-30T14:24:12 - Restored torrent. Torrent: "Outlander.S05.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]"
+(N) 2024-12-30T14:24:12 - Restored torrent. Torrent: "Outlander.S06E03.REPACK.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T14:24:12 - Restored torrent. Torrent: "the.rookie.s04e03.1080p.web.h264-dexterous[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T14:24:12 - Restored torrent. Torrent: "The.Rookie.S04E18.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T14:24:12 - Restored torrent. Torrent: "The.Rookie.S04E21.1080p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T14:24:12 - Restored torrent. Torrent: "The.Rookie.S04E05.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T14:24:12 - Restored torrent. Torrent: "The.Rookie.S04E06.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T14:24:12 - Restored torrent. Torrent: "The.Rookie.S04E08.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T14:24:12 - Restored torrent. Torrent: "The.Rookie.S04E17.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T14:24:12 - Restored torrent. Torrent: "The.Rookie.S04E20.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]"
+(I) 2024-12-30T14:24:12 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Nov 30 18:19:17 2024.
+(N) 2024-12-30T14:24:12 - Using built-in WebUI.
+(N) 2024-12-30T14:24:12 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-12-30T14:24:12 - WebUI: Now listening on IP: *, port: 8090
+(W) 2024-12-30T14:24:17 - Couldn't download IP geolocation database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2024-12-30T15:00:42 - qBittorrent v4.6.5 started
+(N) 2024-12-30T15:00:42 - Using config directory: /config/qBittorrent
+(N) 2024-12-30T15:00:42 - Trying to listen on the following list of IP addresses: "0.0.0.0:57961,[::]:57961"
+(I) 2024-12-30T15:00:42 - Peer ID: "-qB4650-"
+(I) 2024-12-30T15:00:42 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-12-30T15:00:42 - Distributed Hash Table (DHT) support: ON
+(I) 2024-12-30T15:00:42 - Local Peer Discovery support: ON
+(I) 2024-12-30T15:00:42 - Peer Exchange (PeX) support: ON
+(I) 2024-12-30T15:00:42 - Anonymous mode: ON
+(I) 2024-12-30T15:00:42 - Encryption support: ON
+(I) 2024-12-30T15:00:42 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/57961"
+(I) 2024-12-30T15:00:42 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/57961"
+(I) 2024-12-30T15:00:42 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/57961"
+(I) 2024-12-30T15:00:42 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/57961"
+(N) 2024-12-30T15:00:42 - Restored torrent. Torrent: "Find.Me.2018.720p.AMZN.WEBRip.DDP2.0.x264-KamiKaze"
+(N) 2024-12-30T15:00:42 - Restored torrent. Torrent: "Outlander.S01.1080p.AMZN.WEBRip.DDP5.1.x265-SiGMA[rartv]"
+(N) 2024-12-30T15:00:42 - Restored torrent. Torrent: "80cdc5fcbced42a7b8c5e8bab58963f8261bfa88"
+(N) 2024-12-30T15:00:42 - Restored torrent. Torrent: "Outlander.S03.1080p.AMZN.WEBRip.DDP5.1.x265-SiGMA"
+(N) 2024-12-30T15:00:42 - Restored torrent. Torrent: "fc268cca2d96e2aed94d313a72b1c5357751ea72"
+(N) 2024-12-30T15:00:42 - Restored torrent. Torrent: "Outlander.S05.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]"
+(N) 2024-12-30T15:00:42 - Restored torrent. Torrent: "Outlander.S06E03.REPACK.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:00:42 - Restored torrent. Torrent: "the.rookie.s04e03.1080p.web.h264-dexterous[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:00:42 - Restored torrent. Torrent: "The.Rookie.S04E18.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:00:42 - Restored torrent. Torrent: "The.Rookie.S04E21.1080p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:00:42 - Restored torrent. Torrent: "The.Rookie.S04E05.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:00:42 - Restored torrent. Torrent: "The.Rookie.S04E06.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:00:42 - Restored torrent. Torrent: "The.Rookie.S04E08.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:00:42 - Restored torrent. Torrent: "The.Rookie.S04E17.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:00:42 - Restored torrent. Torrent: "The.Rookie.S04E20.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]"
+(I) 2024-12-30T15:00:42 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Nov 30 18:19:17 2024.
+(N) 2024-12-30T15:00:42 - Using built-in WebUI.
+(N) 2024-12-30T15:00:42 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-12-30T15:00:42 - WebUI: Now listening on IP: *, port: 8090
+(I) 2024-12-30T15:00:42 - Detected external IP. IP: "209.216.163.22"
+(N) 2024-12-30T15:00:43 - WebAPI login success. IP: ::ffff:127.0.0.1
+(N) 2024-12-30T15:00:43 - Trying to listen on the following list of IP addresses: "0.0.0.0:32221,[::]:32221"
+(I) 2024-12-30T15:00:43 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/32221"
+(I) 2024-12-30T15:00:43 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/32221"
+(I) 2024-12-30T15:00:43 - Successfully listening on IP. IP: "10.20.243.6". Port: "TCP/32221"
+(I) 2024-12-30T15:00:43 - Successfully listening on IP. IP: "10.20.243.6". Port: "UTP/32221"
+(I) 2024-12-30T15:00:43 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/32221"
+(I) 2024-12-30T15:00:43 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/32221"
+(I) 2024-12-30T15:00:46 - Detected external IP. IP: "181.41.202.179"
+(I) 2024-12-30T15:00:52 - Detected external IP. IP: "209.216.163.22"
+(N) 2024-12-30T15:04:06 - Enqueued torrent move. Torrent: "The.Rookie.S04E21.1080p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:04:06 - Start moving torrent. Torrent: "The.Rookie.S04E21.1080p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:04:06 - Moved torrent successfully. Torrent: "The.Rookie.S04E21.1080p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:04:06 - Torrent download finished. Torrent: "The.Rookie.S04E21.1080p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:04:11 - Enqueued torrent move. Torrent: "The.Rookie.S04E08.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:04:11 - Start moving torrent. Torrent: "The.Rookie.S04E08.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:04:11 - Moved torrent successfully. Torrent: "The.Rookie.S04E08.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:04:11 - Torrent download finished. Torrent: "The.Rookie.S04E08.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:06:23 - Enqueued torrent move. Torrent: "The.Rookie.S04E18.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:06:23 - Start moving torrent. Torrent: "The.Rookie.S04E18.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:06:23 - Moved torrent successfully. Torrent: "The.Rookie.S04E18.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:06:23 - Torrent download finished. Torrent: "The.Rookie.S04E18.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:13:21 - Enqueued torrent move. Torrent: "the.rookie.s04e03.1080p.web.h264-dexterous[eztv.re].mkv[eztvx.to]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:13:21 - Start moving torrent. Torrent: "the.rookie.s04e03.1080p.web.h264-dexterous[eztv.re].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:13:21 - Moved torrent successfully. Torrent: "the.rookie.s04e03.1080p.web.h264-dexterous[eztv.re].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:13:21 - Torrent download finished. Torrent: "the.rookie.s04e03.1080p.web.h264-dexterous[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:17:03 - Enqueued torrent move. Torrent: "The.Rookie.S04E05.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:17:03 - Start moving torrent. Torrent: "The.Rookie.S04E05.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:17:03 - Moved torrent successfully. Torrent: "The.Rookie.S04E05.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:17:03 - Torrent download finished. Torrent: "The.Rookie.S04E05.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:18:08 - Enqueued torrent move. Torrent: "The.Rookie.S04E06.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:18:08 - Start moving torrent. Torrent: "The.Rookie.S04E06.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:18:08 - Moved torrent successfully. Torrent: "The.Rookie.S04E06.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:18:08 - Torrent download finished. Torrent: "The.Rookie.S04E06.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:34:13 - Torrent paused. Torrent: "The.Rookie.S04E21.1080p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:34:13 - Torrent reached the seeding time limit. Torrent paused. Torrent: "The.Rookie.S04E21.1080p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]".
+(N) 2024-12-30T15:34:13 - Torrent paused. Torrent: "The.Rookie.S04E08.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:34:13 - Torrent reached the seeding time limit. Torrent paused. Torrent: "The.Rookie.S04E08.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]".
+(N) 2024-12-30T15:36:33 - Torrent paused. Torrent: "The.Rookie.S04E18.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:36:33 - Torrent reached the seeding time limit. Torrent paused. Torrent: "The.Rookie.S04E18.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]".
+(N) 2024-12-30T15:40:38 - Enqueued torrent move. Torrent: "The.Rookie.S04E17.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:40:38 - Start moving torrent. Torrent: "The.Rookie.S04E17.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:40:38 - Moved torrent successfully. Torrent: "The.Rookie.S04E17.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:40:38 - Torrent download finished. Torrent: "The.Rookie.S04E17.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:41:54 - Enqueued torrent move. Torrent: "The.Rookie.S04E20.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:41:54 - Start moving torrent. Torrent: "The.Rookie.S04E20.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:41:54 - Moved torrent successfully. Torrent: "The.Rookie.S04E20.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-30T15:41:54 - Torrent download finished. Torrent: "The.Rookie.S04E20.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:47:03 - Torrent paused. Torrent: "The.Rookie.S04E05.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:47:03 - Torrent reached the seeding time limit. Torrent paused. Torrent: "The.Rookie.S04E05.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]".
+(N) 2024-12-30T15:48:13 - Torrent paused. Torrent: "The.Rookie.S04E06.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:48:13 - Torrent reached the seeding time limit. Torrent paused. Torrent: "The.Rookie.S04E06.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]".
+(N) 2024-12-30T15:48:33 - Torrent paused. Torrent: "the.rookie.s04e03.1080p.web.h264-dexterous[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T15:48:33 - Torrent reached the seeding time limit. Torrent paused. Torrent: "the.rookie.s04e03.1080p.web.h264-dexterous[eztv.re].mkv[eztvx.to]".
+(N) 2024-12-30T16:10:43 - Torrent paused. Torrent: "The.Rookie.S04E17.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T16:10:43 - Torrent reached the seeding time limit. Torrent paused. Torrent: "The.Rookie.S04E17.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]".
+(N) 2024-12-30T16:12:03 - Torrent paused. Torrent: "The.Rookie.S04E20.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T16:12:03 - Torrent reached the seeding time limit. Torrent paused. Torrent: "The.Rookie.S04E20.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]".
+(N) 2024-12-30T16:27:45 - Enqueued torrent move. Torrent: "Outlander.S06E03.REPACK.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2024-12-30T16:27:45 - Start moving torrent. Torrent: "Outlander.S06E03.REPACK.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-30T16:27:45 - Moved torrent successfully. Torrent: "Outlander.S06E03.REPACK.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-30T16:27:45 - Torrent download finished. Torrent: "Outlander.S06E03.REPACK.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T16:57:53 - Torrent paused. Torrent: "Outlander.S06E03.REPACK.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-30T16:57:53 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Outlander.S06E03.REPACK.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]".
+(N) 2024-12-30T18:02:21 - Enqueued torrent move. Torrent: "Outlander.S03.1080p.AMZN.WEBRip.DDP5.1.x265-SiGMA". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2024-12-30T18:02:21 - Start moving torrent. Torrent: "Outlander.S03.1080p.AMZN.WEBRip.DDP5.1.x265-SiGMA". Destination: "/x-media/torrents"
+(N) 2024-12-30T18:02:21 - Moved torrent successfully. Torrent: "Outlander.S03.1080p.AMZN.WEBRip.DDP5.1.x265-SiGMA". Destination: "/x-media/torrents"
+(N) 2024-12-30T18:02:21 - Torrent download finished. Torrent: "Outlander.S03.1080p.AMZN.WEBRip.DDP5.1.x265-SiGMA"
+(N) 2024-12-30T18:32:23 - Torrent paused. Torrent: "Outlander.S03.1080p.AMZN.WEBRip.DDP5.1.x265-SiGMA"
+(N) 2024-12-30T18:32:23 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Outlander.S03.1080p.AMZN.WEBRip.DDP5.1.x265-SiGMA".
+(N) 2024-12-31T00:17:37 - qBittorrent termination initiated
+(N) 2024-12-31T00:17:39 - qBittorrent is now ready to exit
+(N) 2024-12-31T00:17:42 - qBittorrent v4.6.5 started
+(N) 2024-12-31T00:17:42 - Using config directory: /config/qBittorrent
+(N) 2024-12-31T00:17:42 - Trying to listen on the following list of IP addresses: "0.0.0.0:32221,[::]:32221"
+(I) 2024-12-31T00:17:42 - Peer ID: "-qB4650-"
+(I) 2024-12-31T00:17:42 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-12-31T00:17:42 - Distributed Hash Table (DHT) support: ON
+(I) 2024-12-31T00:17:42 - Local Peer Discovery support: ON
+(I) 2024-12-31T00:17:42 - Peer Exchange (PeX) support: ON
+(I) 2024-12-31T00:17:42 - Anonymous mode: ON
+(I) 2024-12-31T00:17:42 - Encryption support: ON
+(I) 2024-12-31T00:17:42 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/32221"
+(I) 2024-12-31T00:17:42 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/32221"
+(I) 2024-12-31T00:17:42 - Successfully listening on IP. IP: "10.7.214.115". Port: "TCP/32221"
+(I) 2024-12-31T00:17:42 - Successfully listening on IP. IP: "10.7.214.115". Port: "UTP/32221"
+(I) 2024-12-31T00:17:42 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/32221"
+(I) 2024-12-31T00:17:42 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/32221"
+(N) 2024-12-31T00:17:42 - Restored torrent. Torrent: "Find.Me.2018.720p.AMZN.WEBRip.DDP2.0.x264-KamiKaze"
+(N) 2024-12-31T00:17:42 - Restored torrent. Torrent: "Outlander.S01.1080p.AMZN.WEBRip.DDP5.1.x265-SiGMA[rartv]"
+(N) 2024-12-31T00:17:42 - Restored torrent. Torrent: "80cdc5fcbced42a7b8c5e8bab58963f8261bfa88"
+(N) 2024-12-31T00:17:42 - Restored torrent. Torrent: "Outlander.S03.1080p.AMZN.WEBRip.DDP5.1.x265-SiGMA"
+(N) 2024-12-31T00:17:42 - Restored torrent. Torrent: "Outlander.S04.720p.BluRay.X264-REWARD[rartv]"
+(N) 2024-12-31T00:17:42 - Restored torrent. Torrent: "Outlander.S05.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]"
+(N) 2024-12-31T00:17:42 - Restored torrent. Torrent: "Outlander.S06E03.REPACK.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-31T00:17:42 - Restored torrent. Torrent: "the.rookie.s04e03.1080p.web.h264-dexterous[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-31T00:17:42 - Restored torrent. Torrent: "The.Rookie.S04E18.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-31T00:17:42 - Restored torrent. Torrent: "The.Rookie.S04E21.1080p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-31T00:17:42 - Restored torrent. Torrent: "The.Rookie.S04E05.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-31T00:17:42 - Restored torrent. Torrent: "The.Rookie.S04E06.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-31T00:17:42 - Restored torrent. Torrent: "The.Rookie.S04E08.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-31T00:17:42 - Restored torrent. Torrent: "The.Rookie.S04E17.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-31T00:17:42 - Restored torrent. Torrent: "The.Rookie.S04E20.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]"
+(I) 2024-12-31T00:17:42 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Nov 30 18:19:17 2024.
+(N) 2024-12-31T00:17:42 - Using built-in WebUI.
+(N) 2024-12-31T00:17:42 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-12-31T00:17:42 - WebUI: Now listening on IP: *, port: 8090
+(I) 2024-12-31T00:17:43 - Detected external IP. IP: "209.216.163.22"
+(I) 2024-12-31T00:17:43 - Detected external IP. IP: "181.214.153.76"
+(N) 2024-12-31T00:17:48 - WebAPI login success. IP: ::ffff:127.0.0.1
+(N) 2024-12-31T00:17:49 - Trying to listen on the following list of IP addresses: "0.0.0.0:27281,[::]:27281"
+(I) 2024-12-31T00:17:49 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/27281"
+(I) 2024-12-31T00:17:49 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/27281"
+(I) 2024-12-31T00:17:49 - Successfully listening on IP. IP: "10.7.214.115". Port: "TCP/27281"
+(I) 2024-12-31T00:17:49 - Successfully listening on IP. IP: "10.7.214.115". Port: "UTP/27281"
+(I) 2024-12-31T00:17:49 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/27281"
+(I) 2024-12-31T00:17:49 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/27281"
+(I) 2024-12-31T00:17:49 - Detected external IP. IP: "209.216.163.22"
+(I) 2024-12-31T00:17:51 - Detected external IP. IP: "181.214.153.76"
+(W) 2024-12-31T00:18:08 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:192.168.1.189, username: root
+(N) 2024-12-31T00:18:19 - WebAPI login success. IP: ::ffff:192.168.1.189
+(N) 2024-12-31T00:18:43 - WebAPI login success. IP: ::ffff:192.168.1.8
+(N) 2024-12-31T00:18:47 - Removed torrent and deleted its content. Torrent: "The.Rookie.S04E17.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-31T00:18:47 - Removed torrent and deleted its content. Torrent: "Outlander.S06E03.REPACK.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-31T00:18:47 - Removed torrent and deleted its content. Torrent: "The.Rookie.S04E21.1080p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-31T00:18:47 - Removed torrent and deleted its content. Torrent: "The.Rookie.S04E18.1080p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-31T00:18:47 - Removed torrent and deleted its content. Torrent: "Outlander.S03.1080p.AMZN.WEBRip.DDP5.1.x265-SiGMA"
+(N) 2024-12-31T00:18:47 - Removed torrent and deleted its content. Torrent: "The.Rookie.S04E08.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-31T00:18:47 - Removed torrent and deleted its content. Torrent: "The.Rookie.S04E20.720p.WEB.h264-GOSSIP[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-31T00:18:47 - Removed torrent and deleted its content. Torrent: "The.Rookie.S04E05.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-31T00:18:48 - Removed torrent and deleted its content. Torrent: "The.Rookie.S04E06.720p.WEB.H264-PECULATE[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-31T00:18:48 - Removed torrent and deleted its content. Torrent: "the.rookie.s04e03.1080p.web.h264-dexterous[eztv.re].mkv[eztvx.to]"
+(N) 2024-12-31T00:22:52 - Removed torrent. Torrent: "80cdc5fcbced42a7b8c5e8bab58963f8261bfa88"
+(N) 2024-12-31T00:22:52 - Removed torrent and deleted its content. Torrent: "Find.Me.2018.720p.AMZN.WEBRip.DDP2.0.x264-KamiKaze"
+(N) 2024-12-31T00:22:52 - Removed torrent and deleted its content. Torrent: "Outlander.S04.720p.BluRay.X264-REWARD[rartv]"
+(N) 2024-12-31T00:22:52 - Removed torrent and deleted its content. Torrent: "Outlander.S05.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]"
+(N) 2024-12-31T00:22:52 - Removed torrent and deleted its content. Torrent: "Outlander.S01.1080p.AMZN.WEBRip.DDP5.1.x265-SiGMA[rartv]"
+(N) 2024-12-31T00:25:56 - Added new torrent. Torrent: "Dune Prophecy S01E06 The High-Handed Enemy 2160p MAX WEB-DL DDP5 1 DV x265-NTb"
+(N) 2024-12-31T00:31:21 - qBittorrent termination initiated
+(N) 2024-12-31T00:31:23 - qBittorrent is now ready to exit
+(N) 2024-12-31T00:31:57 - qBittorrent v4.6.5 started
+(N) 2024-12-31T00:31:57 - Using config directory: /config/qBittorrent
+(N) 2024-12-31T00:31:57 - Trying to listen on the following list of IP addresses: "0.0.0.0:27281,[::]:27281"
+(I) 2024-12-31T00:31:57 - Peer ID: "-qB4650-"
+(I) 2024-12-31T00:31:57 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2024-12-31T00:31:57 - Distributed Hash Table (DHT) support: ON
+(I) 2024-12-31T00:31:57 - Local Peer Discovery support: ON
+(I) 2024-12-31T00:31:57 - Peer Exchange (PeX) support: ON
+(I) 2024-12-31T00:31:57 - Anonymous mode: ON
+(I) 2024-12-31T00:31:57 - Encryption support: ON
+(I) 2024-12-31T00:31:57 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/27281"
+(I) 2024-12-31T00:31:57 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/27281"
+(I) 2024-12-31T00:31:57 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/27281"
+(I) 2024-12-31T00:31:57 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/27281"
+(N) 2024-12-31T00:31:57 - Restored torrent. Torrent: "Dune Prophecy S01E06 The High-Handed Enemy 2160p MAX WEB-DL DDP5 1 DV x265-NTb"
+(I) 2024-12-31T00:31:57 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Nov 30 18:19:17 2024.
+(N) 2024-12-31T00:31:57 - Using built-in WebUI.
+(N) 2024-12-31T00:31:57 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2024-12-31T00:31:57 - WebUI: Now listening on IP: *, port: 8090
+(I) 2024-12-31T00:31:57 - Detected external IP. IP: "209.216.163.22"
+(N) 2024-12-31T00:31:58 - WebAPI login success. IP: ::ffff:127.0.0.1
+(N) 2024-12-31T00:31:58 - Trying to listen on the following list of IP addresses: "0.0.0.0:58659,[::]:58659"
+(I) 2024-12-31T00:31:58 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/58659"
+(I) 2024-12-31T00:31:58 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/58659"
+(I) 2024-12-31T00:31:58 - Successfully listening on IP. IP: "10.18.186.207". Port: "TCP/58659"
+(I) 2024-12-31T00:31:58 - Successfully listening on IP. IP: "10.18.186.207". Port: "UTP/58659"
+(I) 2024-12-31T00:31:58 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/58659"
+(I) 2024-12-31T00:31:58 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/58659"
+(I) 2024-12-31T00:31:59 - Detected external IP. IP: "209.216.163.22"
+(I) 2024-12-31T00:31:59 - Detected external IP. IP: "89.149.52.116"
+(N) 2024-12-31T00:32:20 - WebAPI login success. IP: ::ffff:192.168.1.189
+(N) 2024-12-31T00:33:16 - WebAPI login success. IP: ::ffff:192.168.1.8
+(N) 2024-12-31T00:34:18 - Added new torrent. Torrent: "Outlander S07E11 1080p Webrip x265 Hunsub-ELiTE[EZTVx.to].mkv[eztvx.to]"
+(N) 2024-12-31T00:36:12 - Enqueued torrent move. Torrent: "Outlander S07E11 1080p Webrip x265 Hunsub-ELiTE[EZTVx.to].mkv[eztvx.to]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2024-12-31T00:36:12 - Start moving torrent. Torrent: "Outlander S07E11 1080p Webrip x265 Hunsub-ELiTE[EZTVx.to].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-31T00:36:12 - Moved torrent successfully. Torrent: "Outlander S07E11 1080p Webrip x265 Hunsub-ELiTE[EZTVx.to].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2024-12-31T00:36:12 - Torrent download finished. Torrent: "Outlander S07E11 1080p Webrip x265 Hunsub-ELiTE[EZTVx.to].mkv[eztvx.to]"
+(N) 2024-12-31T00:46:20 - Enqueued torrent move. Torrent: "Dune Prophecy S01E06 The High-Handed Enemy 2160p MAX WEB-DL DDP5 1 DV x265-NTb". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2024-12-31T00:46:20 - Start moving torrent. Torrent: "Dune Prophecy S01E06 The High-Handed Enemy 2160p MAX WEB-DL DDP5 1 DV x265-NTb". Destination: "/x-media/torrents"
+(N) 2024-12-31T00:46:20 - Moved torrent successfully. Torrent: "Dune Prophecy S01E06 The High-Handed Enemy 2160p MAX WEB-DL DDP5 1 DV x265-NTb". Destination: "/x-media/torrents"
+(N) 2024-12-31T00:46:20 - Torrent download finished. Torrent: "Dune Prophecy S01E06 The High-Handed Enemy 2160p MAX WEB-DL DDP5 1 DV x265-NTb"
+(N) 2024-12-31T00:46:31 - Torrent paused. Torrent: "Dune Prophecy S01E06 The High-Handed Enemy 2160p MAX WEB-DL DDP5 1 DV x265-NTb"
+(N) 2024-12-31T00:51:11 - Added new torrent. Torrent: "a4644e9cf909c564af2e94de15b64d4025d14d27"
+(N) 2024-12-31T00:51:41 - Removed torrent and deleted its content. Torrent: "Dune Prophecy S01E06 The High-Handed Enemy 2160p MAX WEB-DL DDP5 1 DV x265-NTb"
+(N) 2024-12-31T00:51:47 - Torrent paused. Torrent: "Outlander S07E11 1080p Webrip x265 Hunsub-ELiTE[EZTVx.to].mkv[eztvx.to]"
+(N) 2024-12-31T01:01:29 - Enqueued torrent move. Torrent: "Dune.Prophecy.S01E06.4K.HDR.DV.2160p WEBDL Ita Eng x265-NAHOM". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2024-12-31T01:01:29 - Start moving torrent. Torrent: "Dune.Prophecy.S01E06.4K.HDR.DV.2160p WEBDL Ita Eng x265-NAHOM". Destination: "/x-media/torrents"
+(N) 2024-12-31T01:01:29 - Moved torrent successfully. Torrent: "Dune.Prophecy.S01E06.4K.HDR.DV.2160p WEBDL Ita Eng x265-NAHOM". Destination: "/x-media/torrents"
+(N) 2024-12-31T01:01:29 - Torrent download finished. Torrent: "Dune.Prophecy.S01E06.4K.HDR.DV.2160p WEBDL Ita Eng x265-NAHOM"
+(N) 2024-12-31T01:31:38 - Torrent paused. Torrent: "Dune.Prophecy.S01E06.4K.HDR.DV.2160p WEBDL Ita Eng x265-NAHOM"
+(N) 2024-12-31T01:31:38 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Dune.Prophecy.S01E06.4K.HDR.DV.2160p WEBDL Ita Eng x265-NAHOM".
+(N) 2024-12-31T01:32:46 - Removed torrent and deleted its content. Torrent: "Dune.Prophecy.S01E06.4K.HDR.DV.2160p WEBDL Ita Eng x265-NAHOM"
+(N) 2024-12-31T02:52:17 - Removed torrent and deleted its content. Torrent: "Outlander S07E11 1080p Webrip x265 Hunsub-ELiTE[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-02T18:42:47 - Added new torrent. Torrent: "silo.s02e08.1080p.web.h264-successfulcrab[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-02T19:07:08 - Enqueued torrent move. Torrent: "silo.s02e08.1080p.web.h264-successfulcrab[EZTVx.to].mkv[eztvx.to]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2025-01-02T19:07:08 - Start moving torrent. Torrent: "silo.s02e08.1080p.web.h264-successfulcrab[EZTVx.to].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2025-01-02T19:07:08 - Moved torrent successfully. Torrent: "silo.s02e08.1080p.web.h264-successfulcrab[EZTVx.to].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2025-01-02T19:07:08 - Torrent download finished. Torrent: "silo.s02e08.1080p.web.h264-successfulcrab[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-02T19:37:08 - Torrent paused. Torrent: "silo.s02e08.1080p.web.h264-successfulcrab[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-02T19:37:08 - Torrent reached the seeding time limit. Torrent paused. Torrent: "silo.s02e08.1080p.web.h264-successfulcrab[EZTVx.to].mkv[eztvx.to]".
+(N) 2025-01-02T19:38:16 - Removed torrent and deleted its content. Torrent: "silo.s02e08.1080p.web.h264-successfulcrab[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-02T21:48:49 - Added new torrent. Torrent: "Outlander.S07E15.1080p.AV1.10bit-MeGusta[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-02T21:55:44 - Enqueued torrent move. Torrent: "Outlander.S07E15.1080p.AV1.10bit-MeGusta[EZTVx.to].mkv[eztvx.to]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2025-01-02T21:55:44 - Start moving torrent. Torrent: "Outlander.S07E15.1080p.AV1.10bit-MeGusta[EZTVx.to].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2025-01-02T21:55:44 - Moved torrent successfully. Torrent: "Outlander.S07E15.1080p.AV1.10bit-MeGusta[EZTVx.to].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2025-01-02T21:55:44 - Torrent download finished. Torrent: "Outlander.S07E15.1080p.AV1.10bit-MeGusta[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-02T22:25:48 - Torrent paused. Torrent: "Outlander.S07E15.1080p.AV1.10bit-MeGusta[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-02T22:25:48 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Outlander.S07E15.1080p.AV1.10bit-MeGusta[EZTVx.to].mkv[eztvx.to]".
+(N) 2025-01-02T22:27:17 - Removed torrent and deleted its content. Torrent: "Outlander.S07E15.1080p.AV1.10bit-MeGusta[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-05T08:43:15 - Added new torrent. Torrent: "Outlander S07e12 [1080p Ita Eng Spa h265 10bit SubS] byMe7alh [MIRCrew]"
+(N) 2025-01-05T08:46:02 - Enqueued torrent move. Torrent: "Outlander S07e12 [1080p Ita Eng Spa h265 10bit SubS] byMe7alh [MIRCrew]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2025-01-05T08:46:02 - Start moving torrent. Torrent: "Outlander S07e12 [1080p Ita Eng Spa h265 10bit SubS] byMe7alh [MIRCrew]". Destination: "/x-media/torrents"
+(N) 2025-01-05T08:46:02 - Moved torrent successfully. Torrent: "Outlander S07e12 [1080p Ita Eng Spa h265 10bit SubS] byMe7alh [MIRCrew]". Destination: "/x-media/torrents"
+(N) 2025-01-05T08:46:02 - Torrent download finished. Torrent: "Outlander S07e12 [1080p Ita Eng Spa h265 10bit SubS] byMe7alh [MIRCrew]"
+(N) 2025-01-05T09:16:08 - Torrent paused. Torrent: "Outlander S07e12 [1080p Ita Eng Spa h265 10bit SubS] byMe7alh [MIRCrew]"
+(N) 2025-01-05T09:16:08 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Outlander S07e12 [1080p Ita Eng Spa h265 10bit SubS] byMe7alh [MIRCrew]".
+(N) 2025-01-05T09:16:13 - Removed torrent and deleted its content. Torrent: "Outlander S07e12 [1080p Ita Eng Spa h265 10bit SubS] byMe7alh [MIRCrew]"
+(N) 2025-01-07T14:23:46 - Added new torrent. Torrent: "10ba7e266eb51753b5cda4246ea6ac35f97dc214"
+(N) 2025-01-07T14:24:16 - Added new torrent. Torrent: "d4c3c416ef4167ef521b22a2f69df68605e7a31b"
+(N) 2025-01-07T14:25:15 - Enqueued torrent move. Torrent: "Outlander.S07E13.WEB.x264-TORRENTGALAXY[TGx]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2025-01-07T14:25:15 - Start moving torrent. Torrent: "Outlander.S07E13.WEB.x264-TORRENTGALAXY[TGx]". Destination: "/x-media/torrents"
+(N) 2025-01-07T14:25:15 - Moved torrent successfully. Torrent: "Outlander.S07E13.WEB.x264-TORRENTGALAXY[TGx]". Destination: "/x-media/torrents"
+(N) 2025-01-07T14:25:15 - Torrent download finished. Torrent: "Outlander.S07E13.WEB.x264-TORRENTGALAXY[TGx]"
+(N) 2025-01-07T14:25:18 - Added new torrent. Torrent: "2eb8cb0696ed4aca6d8aff05b10d7eeb6854d859"
+(N) 2025-01-07T14:25:35 - Enqueued torrent move. Torrent: "Outlander.S07E14.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2025-01-07T14:25:35 - Start moving torrent. Torrent: "Outlander.S07E14.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Destination: "/x-media/torrents"
+(N) 2025-01-07T14:25:35 - Moved torrent successfully. Torrent: "Outlander.S07E14.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Destination: "/x-media/torrents"
+(N) 2025-01-07T14:25:35 - Torrent download finished. Torrent: "Outlander.S07E14.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv"
+(N) 2025-01-07T14:26:16 - Added new torrent. Torrent: "10141e5674ec47b7e730fae475f6c5d8a6469c38"
+(N) 2025-01-07T14:26:38 - Enqueued torrent move. Torrent: "Outlander.S07E10.WEB.x264-TORRENTGALAXY[TGx]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2025-01-07T14:26:38 - Start moving torrent. Torrent: "Outlander.S07E10.WEB.x264-TORRENTGALAXY[TGx]". Destination: "/x-media/torrents"
+(N) 2025-01-07T14:26:38 - Moved torrent successfully. Torrent: "Outlander.S07E10.WEB.x264-TORRENTGALAXY[TGx]". Destination: "/x-media/torrents"
+(N) 2025-01-07T14:26:38 - Torrent download finished. Torrent: "Outlander.S07E10.WEB.x264-TORRENTGALAXY[TGx]"
+(N) 2025-01-07T14:28:18 - Enqueued torrent move. Torrent: "Outlander.S07E09.WEB.x264-TORRENTGALAXY[TGx]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2025-01-07T14:28:18 - Start moving torrent. Torrent: "Outlander.S07E09.WEB.x264-TORRENTGALAXY[TGx]". Destination: "/x-media/torrents"
+(N) 2025-01-07T14:28:18 - Moved torrent successfully. Torrent: "Outlander.S07E09.WEB.x264-TORRENTGALAXY[TGx]". Destination: "/x-media/torrents"
+(N) 2025-01-07T14:28:18 - Torrent download finished. Torrent: "Outlander.S07E09.WEB.x264-TORRENTGALAXY[TGx]"
+(N) 2025-01-07T14:55:18 - Torrent paused. Torrent: "Outlander.S07E13.WEB.x264-TORRENTGALAXY[TGx]"
+(N) 2025-01-07T14:55:18 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Outlander.S07E13.WEB.x264-TORRENTGALAXY[TGx]".
+(N) 2025-01-07T14:55:38 - Torrent paused. Torrent: "Outlander.S07E14.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv"
+(N) 2025-01-07T14:55:38 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Outlander.S07E14.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv".
+(N) 2025-01-07T14:56:04 - Removed torrent and deleted its content. Torrent: "Outlander.S07E14.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv"
+(N) 2025-01-07T14:56:04 - Removed torrent and deleted its content. Torrent: "Outlander.S07E13.WEB.x264-TORRENTGALAXY[TGx]"
+(N) 2025-01-07T14:56:38 - Torrent paused. Torrent: "Outlander.S07E10.WEB.x264-TORRENTGALAXY[TGx]"
+(N) 2025-01-07T14:56:38 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Outlander.S07E10.WEB.x264-TORRENTGALAXY[TGx]".
+(N) 2025-01-07T14:57:34 - Removed torrent and deleted its content. Torrent: "Outlander.S07E10.WEB.x264-TORRENTGALAXY[TGx]"
+(N) 2025-01-07T14:58:28 - Torrent paused. Torrent: "Outlander.S07E09.WEB.x264-TORRENTGALAXY[TGx]"
+(N) 2025-01-07T14:58:28 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Outlander.S07E09.WEB.x264-TORRENTGALAXY[TGx]".
+(N) 2025-01-07T14:58:34 - Removed torrent and deleted its content. Torrent: "Outlander.S07E09.WEB.x264-TORRENTGALAXY[TGx]"
+(N) 2025-01-07T17:34:37 - Added new torrent. Torrent: "The.Rookie.S07E01.720p.HDTV.x264-SYNCOPY[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-07T17:38:41 - Enqueued torrent move. Torrent: "The.Rookie.S07E01.720p.HDTV.x264-SYNCOPY[EZTVx.to].mkv[eztvx.to]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2025-01-07T17:38:41 - Start moving torrent. Torrent: "The.Rookie.S07E01.720p.HDTV.x264-SYNCOPY[EZTVx.to].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2025-01-07T17:38:41 - Moved torrent successfully. Torrent: "The.Rookie.S07E01.720p.HDTV.x264-SYNCOPY[EZTVx.to].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2025-01-07T17:38:41 - Torrent download finished. Torrent: "The.Rookie.S07E01.720p.HDTV.x264-SYNCOPY[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-07T18:08:48 - Torrent paused. Torrent: "The.Rookie.S07E01.720p.HDTV.x264-SYNCOPY[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-07T18:08:48 - Torrent reached the seeding time limit. Torrent paused. Torrent: "The.Rookie.S07E01.720p.HDTV.x264-SYNCOPY[EZTVx.to].mkv[eztvx.to]".
+(N) 2025-01-07T18:09:05 - Removed torrent and deleted its content. Torrent: "The.Rookie.S07E01.720p.HDTV.x264-SYNCOPY[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-08T19:55:48 - Added new torrent. Torrent: "Chicago.Fire.S13E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-08T19:56:50 - Enqueued torrent move. Torrent: "Chicago.Fire.S13E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2025-01-08T19:56:50 - Start moving torrent. Torrent: "Chicago.Fire.S13E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2025-01-08T19:56:50 - Moved torrent successfully. Torrent: "Chicago.Fire.S13E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2025-01-08T19:56:50 - Torrent download finished. Torrent: "Chicago.Fire.S13E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-08T20:26:58 - Torrent paused. Torrent: "Chicago.Fire.S13E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-08T20:26:58 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Chicago.Fire.S13E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]".
+(N) 2025-01-08T20:27:16 - Removed torrent and deleted its content. Torrent: "Chicago.Fire.S13E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-08T20:42:18 - Added new torrent. Torrent: "Chicago.PD.S12E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-08T20:43:36 - Enqueued torrent move. Torrent: "Chicago.PD.S12E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2025-01-08T20:43:36 - Start moving torrent. Torrent: "Chicago.PD.S12E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2025-01-08T20:43:36 - Moved torrent successfully. Torrent: "Chicago.PD.S12E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". Destination: "/x-media/torrents"
+(N) 2025-01-08T20:43:36 - Torrent download finished. Torrent: "Chicago.PD.S12E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-08T21:13:38 - Torrent paused. Torrent: "Chicago.PD.S12E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-08T21:13:38 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Chicago.PD.S12E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]".
+(N) 2025-01-08T21:13:46 - Removed torrent and deleted its content. Torrent: "Chicago.PD.S12E09.720p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]"
+(N) 2025-01-09T20:12:58 - Added new torrent. Torrent: "c7966665ce52721ce37746ba184a02027ddc85e8"
+(N) 2025-01-09T20:19:29 - Enqueued torrent move. Torrent: "Silo.S02E09.1080p.ATVP.WEB-DL.DDPA5.1.H.264-NTb". Source: "/x-media/torrents/incomplete". Destination: "/x-media/torrents"
+(N) 2025-01-09T20:19:29 - Start moving torrent. Torrent: "Silo.S02E09.1080p.ATVP.WEB-DL.DDPA5.1.H.264-NTb". Destination: "/x-media/torrents"
+(N) 2025-01-09T20:19:29 - Moved torrent successfully. Torrent: "Silo.S02E09.1080p.ATVP.WEB-DL.DDPA5.1.H.264-NTb". Destination: "/x-media/torrents"
+(N) 2025-01-09T20:19:29 - Torrent download finished. Torrent: "Silo.S02E09.1080p.ATVP.WEB-DL.DDPA5.1.H.264-NTb"
+(N) 2025-01-09T20:49:28 - Torrent paused. Torrent: "Silo.S02E09.1080p.ATVP.WEB-DL.DDPA5.1.H.264-NTb"
+(N) 2025-01-09T20:49:28 - Torrent reached the seeding time limit. Torrent paused. Torrent: "Silo.S02E09.1080p.ATVP.WEB-DL.DDPA5.1.H.264-NTb".
+(N) 2025-01-09T20:50:26 - Removed torrent and deleted its content. Torrent: "Silo.S02E09.1080p.ATVP.WEB-DL.DDPA5.1.H.264-NTb"
+(N) 2025-01-09T20:59:37 - qBittorrent termination initiated
+(N) 2025-01-09T20:59:38 - qBittorrent is now ready to exit
+(N) 2025-01-09T21:10:05 - qBittorrent v4.6.5 started
+(N) 2025-01-09T21:10:05 - Using config directory: /config/qBittorrent
+(N) 2025-01-09T21:10:05 - Trying to listen on the following list of IP addresses: "0.0.0.0:58659,[::]:58659"
+(I) 2025-01-09T21:10:05 - Peer ID: "-qB4650-"
+(I) 2025-01-09T21:10:05 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2025-01-09T21:10:05 - Distributed Hash Table (DHT) support: ON
+(I) 2025-01-09T21:10:05 - Local Peer Discovery support: ON
+(I) 2025-01-09T21:10:05 - Peer Exchange (PeX) support: ON
+(I) 2025-01-09T21:10:05 - Anonymous mode: ON
+(I) 2025-01-09T21:10:05 - Encryption support: ON
+(I) 2025-01-09T21:10:05 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/58659"
+(I) 2025-01-09T21:10:05 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/58659"
+(I) 2025-01-09T21:10:05 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/58659"
+(I) 2025-01-09T21:10:05 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/58659"
+(I) 2025-01-09T21:10:05 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Nov 30 18:19:17 2024.
+(N) 2025-01-09T21:10:05 - Using built-in WebUI.
+(N) 2025-01-09T21:10:05 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-01-09T21:10:05 - WebUI: Now listening on IP: *, port: 8090
+(I) 2025-01-09T21:10:05 - Detected external IP. IP: "209.216.163.22"
+(I) 2025-01-09T21:10:05 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Dec 31 18:22:30 2024.
+(I) 2025-01-09T21:10:05 - Successfully updated IP geolocation database.
+(N) 2025-01-09T21:10:06 - WebAPI login success. IP: ::ffff:127.0.0.1
+(N) 2025-01-09T21:10:06 - Trying to listen on the following list of IP addresses: "0.0.0.0:38326,[::]:38326"
+(I) 2025-01-09T21:10:06 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/38326"
+(I) 2025-01-09T21:10:06 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/38326"
+(I) 2025-01-09T21:10:06 - Successfully listening on IP. IP: "10.9.158.44". Port: "TCP/38326"
+(I) 2025-01-09T21:10:06 - Successfully listening on IP. IP: "10.9.158.44". Port: "UTP/38326"
+(I) 2025-01-09T21:10:06 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/38326"
+(I) 2025-01-09T21:10:06 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/38326"
+(N) 2025-01-09T21:10:08 - WebAPI login success. IP: ::ffff:192.168.1.8
+(N) 2025-01-09T21:57:40 - qBittorrent termination initiated
+(C) 2025-01-09T21:57:40 - An access error occurred while trying to write the configuration file.
+(N) 2025-01-09T21:57:40 - qBittorrent is now ready to exit
+(N) 2025-01-10T21:49:28 - qBittorrent v4.6.5 started
+(N) 2025-01-10T21:49:28 - Using config directory: /config/qBittorrent
+(N) 2025-01-10T21:49:28 - Trying to listen on the following list of IP addresses: "0.0.0.0:38326,[::]:38326"
+(I) 2025-01-10T21:49:28 - Peer ID: "-qB4650-"
+(I) 2025-01-10T21:49:28 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2025-01-10T21:49:28 - Distributed Hash Table (DHT) support: ON
+(I) 2025-01-10T21:49:28 - Local Peer Discovery support: ON
+(I) 2025-01-10T21:49:28 - Peer Exchange (PeX) support: ON
+(I) 2025-01-10T21:49:28 - Anonymous mode: ON
+(I) 2025-01-10T21:49:28 - Encryption support: ON
+(I) 2025-01-10T21:49:28 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/38326"
+(I) 2025-01-10T21:49:28 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/38326"
+(I) 2025-01-10T21:49:28 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/38326"
+(I) 2025-01-10T21:49:28 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/38326"
+(I) 2025-01-10T21:49:28 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Dec 31 18:22:30 2024.
+(N) 2025-01-10T21:49:28 - Using built-in WebUI.
+(N) 2025-01-10T21:49:28 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-01-10T21:49:28 - WebUI: Now listening on IP: *, port: 8090
+(W) 2025-01-10T21:49:33 - Couldn't download IP geolocation database file. Reason: The remote host name was not found (invalid hostname)
+(N) 2025-01-10T21:50:14 - WebAPI login success. IP: ::ffff:192.168.1.8
+(N) 2025-01-10T21:58:27 - qBittorrent termination initiated
+(N) 2025-01-10T21:58:27 - qBittorrent is now ready to exit
+(N) 2025-01-10T21:59:53 - qBittorrent v4.6.5 started
+(N) 2025-01-10T21:59:53 - Using config directory: /config/qBittorrent
+(N) 2025-01-10T21:59:53 - Trying to listen on the following list of IP addresses: "0.0.0.0:38326,[::]:38326"
+(I) 2025-01-10T21:59:53 - Peer ID: "-qB4650-"
+(I) 2025-01-10T21:59:53 - HTTP User-Agent: "qBittorrent/4.6.5"
+(I) 2025-01-10T21:59:53 - Distributed Hash Table (DHT) support: ON
+(I) 2025-01-10T21:59:53 - Local Peer Discovery support: ON
+(I) 2025-01-10T21:59:53 - Peer Exchange (PeX) support: ON
+(I) 2025-01-10T21:59:53 - Anonymous mode: ON
+(I) 2025-01-10T21:59:53 - Encryption support: ON
+(I) 2025-01-10T21:59:53 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/38326"
+(I) 2025-01-10T21:59:53 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/38326"
+(I) 2025-01-10T21:59:53 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/38326"
+(I) 2025-01-10T21:59:53 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/38326"
+(I) 2025-01-10T21:59:53 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Dec 31 18:22:30 2024.
+(N) 2025-01-10T21:59:53 - Using built-in WebUI.
+(N) 2025-01-10T21:59:53 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2025-01-10T21:59:53 - WebUI: Now listening on IP: *, port: 8090
+(I) 2025-01-10T21:59:54 - Detected external IP. IP: "209.216.163.15"
+(N) 2025-01-10T21:59:54 - WebAPI login success. IP: ::ffff:127.0.0.1
+(N) 2025-01-10T21:59:54 - Trying to listen on the following list of IP addresses: "0.0.0.0:28016,[::]:28016"
+(I) 2025-01-10T21:59:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/28016"
+(I) 2025-01-10T21:59:54 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/28016"
+(I) 2025-01-10T21:59:54 - Successfully listening on IP. IP: "10.17.228.215". Port: "TCP/28016"
+(I) 2025-01-10T21:59:54 - Successfully listening on IP. IP: "10.17.228.215". Port: "UTP/28016"
+(I) 2025-01-10T21:59:54 - Successfully listening on IP. IP: "172.18.0.2". Port: "TCP/28016"
+(I) 2025-01-10T21:59:54 - Successfully listening on IP. IP: "172.18.0.2". Port: "UTP/28016"
+(N) 2025-01-10T22:02:51 - WebAPI login success. IP: ::ffff:192.168.1.8
+(N) 2025-01-10T22:02:51 - Added new torrent. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]"
+(I) 2025-01-10T22:02:52 - Detected external IP. IP: "209.216.163.15"
+(I) 2025-01-10T22:02:52 - Detected external IP. IP: "181.41.202.116"
+(W) 2025-01-10T22:02:55 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-10T22:12:55 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-10T22:22:55 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-10T22:32:56 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-10T22:33:02 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-10T22:42:56 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-10T22:52:56 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-10T23:02:57 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-10T23:12:58 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-10T23:13:06 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-10T23:13:10 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-10T23:22:58 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-10T23:23:02 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-10T23:32:59 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-10T23:42:59 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-10T23:53:00 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-10T23:53:04 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T00:03:00 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T00:13:00 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T00:23:00 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T00:33:01 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T00:33:06 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T00:43:01 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T00:53:01 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T01:03:02 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T01:13:02 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T01:23:02 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T01:33:02 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T01:43:02 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T01:53:02 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T02:03:02 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T02:13:03 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T02:13:07 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T02:23:03 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T02:33:04 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T02:43:04 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T02:53:05 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T03:03:06 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T03:13:06 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T03:23:06 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T03:33:07 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T03:43:07 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T03:53:07 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T04:03:07 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T04:13:08 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"
+(W) 2025-01-11T04:23:08 - File error alert. Torrent: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv[eztvx.to]". File: "/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv". Reason: "Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv file_open (/x-media/torrents/incomplete/Would.I.Lie.To.You.S18E01.1080p.HEVC.x265-MeGusta[EZTVx.to].mkv) error: Permission denied"

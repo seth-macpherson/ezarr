@@ -1,0 +1,147 @@
+---
+services:
+  nginx:
+    image: linuxserver/nginx
+    container_name: nginx
+    environment:
+      - PUID=0
+      - PGID=1000
+      - TZ=UTC
+    volumes:
+      - /rpool/config/nginx:/config
+      - /rpool/config/nginx-html:/usr/share/nginx/html
+    # networks:
+    #   - bridge_net
+    ports:
+      - 80:80
+    restart: unless-stopped
+  sonarr:
+    image: lscr.io/linuxserver/sonarr:latest
+    container_name: sonarr
+    environment:
+      - PUID=0
+      - PGID=13000
+      - UMASK=002
+      - TZ=America/Pacific
+    volumes:
+      - /rpool/config/sonarr-config:/config
+      - /rpool/data:/data
+    ports:
+      - "8989:8989"
+    restart: unless-stopped
+
+  radarr:
+    image: lscr.io/linuxserver/radarr:latest
+    container_name: radarr
+    environment:
+      - PUID=0
+      - PGID=13000
+      # - UMASK=002
+      - TZ=America/Pacific
+    volumes:
+      - /rpool/config/radarr-config:/config
+      - /rpool/data:/data
+    ports:
+      - "7878:7878"
+    restart: unless-stopped
+
+  overseerr:
+    image: sctx/overseerr:latest
+    container_name: overseerr
+    environment:
+      - PUID=0
+      - PGID=13000
+      - UMASK=002
+      - TZ=America/Pacific
+    volumes:
+      - /rpool/config/overseerr-config:/app/config
+    ports:
+      - "5055:5055"
+    restart: unless-stopped
+
+  prowlarr:
+    image: lscr.io/linuxserver/prowlarr:develop
+    container_name: prowlarr
+    environment:
+      - PUID=0
+      - PGID=13000
+      - UMASK=002
+      - TZ=America/Pacific
+    volumes:
+      - /rpool/config/prowlarr-config:/config
+    ports:
+      - "9696:9696"
+    restart: unless-stopped
+
+  flaresolverr:
+    image: ghcr.io/flaresolverr/flaresolverr:latest
+    container_name: flaresolverr
+    environment:
+      - LOG_LEVEL=${LOG_LEVEL:-info}
+      - LOG_HTML=${LOG_HTML:-false}
+      - CAPTCHA_SOLVER=${CAPTCHA_SOLVER:-none}
+      - TZ=America/Pacific
+    ports:
+      - "8191:8191"
+    restart: unless-stopped
+
+  qbittorrent:
+    image: lscr.io/linuxserver/qbittorrent:latest
+    container_name: qbittorrent
+    depends_on:
+      - vpn
+    network_mode: service:vpn
+    restart: always
+    environment:
+      - PUID=0
+      - PGID=0
+      # - UMASK=002
+      - TZ=America/Pacific
+      - WEBUI_PORT=8080
+    volumes:
+      - /rpool/config/qbittorrent-config:/config
+      - /rpool/data/torrents:/data/torrents
+
+  vpn:
+    image: thrnz/docker-wireguard-pia
+    container_name: vpn
+    volumes:
+      - pia:/pia
+      # If enabled, the forwarded port is dumped to /pia-shared/port.dat for potential use in other containers
+      - pia-shared:/pia-shared
+      - /rpool/config/pia-scripts:/pia-scripts
+    ports:
+      - 443:443
+      - 8080:8080
+      - 6881:6881/tcp
+      - 1337:1337/udp
+      - 2710:2710/udp
+      - 6881-6999:6881-6999/udp
+    devices:
+      - /dev/net/tun:/dev/net/tun
+    cap_add:
+      - NET_ADMIN
+    environment:
+      - LOCAL_NETWORK=192.168.1.0/24,172.22.0.9/32
+      - LOC=ca_vancouver
+      - USER=
+      - PASS=
+      - FIREWALL=0
+      - PORT_FORWARDING=1
+      - PORT_FILE=/pia-shared/port.dat
+      - PORT_PERSIST=0
+      - PORT_SCRIPT=/pia-scripts/portupdater.sh
+    restart: always
+    sysctls:
+      # The wg-quick script tries to set this when setting up routing, however this requires running the container
+      # with the --privileged flag set. Setting it here instead if needed means the container can be run with lower
+      # privileges. This only needs setting if strict reverse path filtering (rp_filter=1) is used.
+      - net.ipv4.conf.all.src_valid_mark=1
+      # May as well disable ipv6. Should be blocked anyway.
+      - net.ipv6.conf.default.disable_ipv6=1
+      - net.ipv6.conf.all.disable_ipv6=1
+      - net.ipv6.conf.lo.disable_ipv6=1
+
+volumes:
+  pia:
+  pia-shared:
